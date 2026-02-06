@@ -17,7 +17,7 @@ Follow instructions in the template to fill-out the canvas by adding nodes for c
 
 A dedicated block with 1–3 crafted HMW questions  
 
-HMW formula:  **How might we + <action> + for + <user> + so that + <outcome>**  
+HMW formula:  **How might we + _action_ + for + _user_ + so that + _outcome_**  
   
 ### Customers / Users
 
